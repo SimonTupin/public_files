@@ -30,6 +30,7 @@
   howpublished  = {mansub},
   keywords      = {blood flow, turbulence},
   primaryclass  = {physics.flu-dyn},
+  url_preprint  = {http\://arxiv.org/pdf/2002.03857v2},
 }
 
 @Unpublished{Tupin2020,
@@ -49,6 +50,7 @@
   howpublished  = {mansub},
   keywords      = {blood flow, turbulence},
   primaryclass  = {physics.med-ph},
+  url_preprint  = {https://arxiv.org/abs/2001.08234v1},
 }
 
 @Article{Rashad2020,
