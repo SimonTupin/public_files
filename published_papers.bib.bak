@@ -145,14 +145,15 @@
 }
 
 @InProceedings{Matsunaga2017b,
-  author    = {Tadao Matsunaga and Akira Ito and Soyoka Osaki and Yasutomo Shimizu and Masaaki Shojima and Hiroshi Yoshida and Noriko Tsuruoka and Simon Tupin and Makoto Ohta and Yoichi Haga},
-  booktitle = {2017 International Symposium on Micro-{NanoMechatronics} and Human Science ({MHS})},
-  title     = {Local internal pressure measurement system of cerebral aneurysm model using ultra-miniature fiber-optic pressure sensor},
-  year      = {2017},
-  month     = dec,
-  publisher = {{IEEE}},
-  doi       = {10.1109/mhs.2017.8305197},
-  keywords  = {cerebral aneurysm},
+  author       = {Tadao Matsunaga and Akira Ito and Soyoka Osaki and Yasutomo Shimizu and Masaaki Shojima and Hiroshi Yoshida and Noriko Tsuruoka and Simon Tupin and Makoto Ohta and Yoichi Haga},
+  booktitle    = {2017 International Symposium on Micro-{NanoMechatronics} and Human Science ({MHS})},
+  title        = {Local internal pressure measurement system of cerebral aneurysm model using ultra-miniature fiber-optic pressure sensor},
+  year         = {2017},
+  month        = dec,
+  publisher    = {{IEEE}},
+  bibbase_note = {<span style="color: green">Best Paper Award.</span>},
+  doi          = {10.1109/mhs.2017.8305197},
+  keywords     = {cerebral aneurysm},
 }
 
 @InProceedings{Ito2017,
@@ -254,6 +255,22 @@
   doi       = {10.1016/j.colsurfb.2011.11.039},
   keywords  = {soft tissue mechanics},
   publisher = {Elsevier {BV}},
+}
+
+@Patent{Haga2020,
+  nationality = {US},
+  number      = {16/609604},
+  year        = {2020},
+  yearfiled   = {2018},
+  assignee    = {Tohoku University},
+  author      = {Yoichi Haga and Makoto Ohta and Yasutomo Shimizu and Tadao Matsunaga and Noriko Tsuruoka and Soyoka Osaki and Hiroshi Yoshida and Simon Andre Tupin and Kaihong Yu},
+  day         = {14},
+  dayfiled    = {01},
+  month       = may,
+  monthfiled  = may,
+  title       = {Hollow Organ Model Unit and Method for Manufacturing Hollow Organ Model Unit},
+  type        = {patrequs},
+  url         = {http://www.freepatentsonline.com/y2020/0152091.html},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
